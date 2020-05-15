@@ -1,0 +1,6 @@
+﻿  LongestPolSubstring.cpp
+c:\users\batuhan\desktop\cpp\codeforceproblems\longestpolsubstring\longestpolsubstring\longestpolsubstring.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\desktop\cpp\codeforceproblems\longestpolsubstring\longestpolsubstring\longestpolsubstring.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\batuhan\desktop\cpp\codeforceproblems\longestpolsubstring\longestpolsubstring\longestpolsubstring.cpp(41): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\batuhan\desktop\cpp\codeforceproblems\longestpolsubstring\longestpolsubstring\longestpolsubstring.cpp(41): warning C4018: '>=': signed/unsigned mismatch
+  LongestPolSubstring.vcxproj -> C:\Users\Batuhan\Desktop\Cpp\CodeForceProblems\LongestPolSubstring\Debug\LongestPolSubstring.exe

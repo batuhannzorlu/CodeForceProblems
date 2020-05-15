@@ -1,0 +1,5 @@
+﻿  QAQ.cpp
+c:\users\batuhan\desktop\cpp\codeforceproblems\qaq\qaq\qaq.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\desktop\cpp\codeforceproblems\qaq\qaq\qaq.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\desktop\cpp\codeforceproblems\qaq\qaq\qaq.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  QAQ.vcxproj -> C:\Users\Batuhan\Desktop\Cpp\CodeForceProblems\QAQ\Debug\QAQ.exe

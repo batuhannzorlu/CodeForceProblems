@@ -1,0 +1,10 @@
+﻿  LongestPalindrome.cpp
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(116): warning C4101: 'temp': unreferenced local variable
+c:\users\batuhan\source\repos\longestpalindrome\longestpalindrome\longestpalindrome.cpp(135): warning C4018: '<': signed/unsigned mismatch
+  LongestPalindrome.vcxproj -> C:\Users\Batuhan\source\repos\LongestPalindrome\Debug\LongestPalindrome.exe
